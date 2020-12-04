@@ -1,3 +1,9 @@
+<p align=”center”>
+<img src="/loester/logo/open_mpw_header.jpg" width="75%" height="75%"> 
+</p>
+
+Google SKY130 free shuttles. It is still WIP. The current SoC architecture is given below.
+ 
 # SoC 6502 (8 bits computer)
 
 is a processor based on the MOS 6502, 8 bits computer.
