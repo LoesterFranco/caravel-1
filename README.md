@@ -16,5 +16,10 @@ a verilog Design is used for the openlane flow.
 </p>
 
 <p align=”center”>
+<img src="/loester/architecture4.png" width="75%" height="75%"> 
+</p>
+
+<p align=”center”>
 <img src="/loester/simulation.png" width="75%" height="75%"> 
 </p>
+
