@@ -8,11 +8,11 @@ a verilog Design is used for the openlane flow.
 </p>
 
 <p align=”center”>
-<img src="/loester/architecture2.png" width="75%" height="75%"> 
+<img src="/loester/architecture2.gif" width="75%" height="75%"> 
 </p>
 
 <p align=”center”>
-<img src="/loester/architecture3.png" width="75%" height="75%"> 
+<img src="/loester/architecture3.jpg" width="75%" height="75%"> 
 </p>
 
 <p align=”center”>
